@@ -1,0 +1,21 @@
+Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\Onkar1684\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellIntegration.ps... 
+   2 & C:/Users/Onkar1684/AppData/Local/Programs/Python/Python312/python.exe d:/python/Github-for-devops-workshop/testing.py
+   3 ls -l
+   4 ls
+   5 ls -a
+   6 ls -l
+   7 ls
+   8 git init
+   9 dir
+  10 ls -a
+  11 ls -d
+  12 ls -a
+  13 ls
+  14 pwd
+  15 git status
+  16 git add .\testing.py
+  17 git status
+  18 git commit -m "added testing file"
+  19 git status
